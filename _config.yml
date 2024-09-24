@@ -12,7 +12,7 @@ title                    : "SOUTARSON Bruny"
 title_separator          : "-"
 name                     : &name "SOUTARSON Bruny"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brutheg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brutheg/brutheg.github.io"
 
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "École normale supérieure Paris-Saclay (ENS Paris-Saclay)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bruny.soutarson@ens-paris-saclay.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
