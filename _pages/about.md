@@ -20,6 +20,10 @@ Energy distance kernel for registration
 The aim of this project was to assess the relevance of the energy distance kernel for shape registration, as it has been shown to reduce complexity from O(n^2) to O(nlogn) in this context. However, shape registration theory relies on positive definite kernels, which is not the case here. Since this theory is intended for numerical applications, we first wanted to evaluate its relevance through a few numerical examples to determine whether its theoretical study was worthwhile.
 about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
+Analysis of EEG time series from epilepsy patients
+------
+The goal of this project was to study the brain activity of patients with epilepsy and detect anomalies. To do this, we analyzed the electroencephalographic activity and attempted to identify spikes in the data.
+
 Getting started
 ======
 
