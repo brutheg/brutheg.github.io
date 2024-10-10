@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on a research gap year at ENS Paris-Saclay. Before joining ENS, I completed my first year of a master's degree in mathematics at Gustave Eiffel University. I also hold bachelor's degrees in both mathematics and computer science from the same university.
+I am currently on a research gap year at ENS Paris-Saclay. Before joining ENS, I completed my first year of a master's degree in mathematics at Gustave Eiffel University. I also hold bachelor's degrees in both mathematics and computer science from the same university. [(Full CV)](https://brutheg.github.io/files/SOUTARSON_Bruny_CV.pdf)
 
 My research interests include signal processing and computer vision, with potential applications in the medical field. Specifically, I aim to use AI to better understand the functioning of the human brain.
 
