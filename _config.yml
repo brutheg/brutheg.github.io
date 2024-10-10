@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "SOUTARSON Bruny"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "24, mathematics student"
   location         : "Paris, France"
   employer         : "ENS Paris-Saclay"
   uri              : # URL
@@ -239,15 +239,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
 
 
