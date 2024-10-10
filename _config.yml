@@ -21,7 +21,7 @@ repository               : "brutheg/brutheg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_bru.jpeg"
+  avatar           : "photo_brun.jpeg"
   name             : "SOUTARSON Bruny"
   pronouns         : # example: "she/her"  
   bio              : "24 years old, mathematics student"
