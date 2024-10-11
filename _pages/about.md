@@ -17,7 +17,7 @@ Here are some projects I have completed.
 
 Energy distance kernel for shape registration
 ------
-The aim of [this project](https://brutheg.github.io/files/SOUTARSON_Bruny_TER_M1.pdf) was to assess the relevance of the energy distance kernel for shape registration, as it has been shown to reduce complexity from $$O(n^{2})$$ to $$O(nlogn)$$ in this context. However, shape registration theory relies on positive definite kernels, which is not the case here. Since this theory is intended for numerical applications, we first wanted to evaluate its relevance through a few numerical examples to determine whether its theoretical study was worthwhile.
+The aim of [this project](https://brutheg.github.io/files/SOUTARSON_Bruny_TER_M__anglais_.pdf) was to assess the relevance of the energy distance kernel for shape registration, as it has been shown to reduce complexity from $$O(n^{2})$$ to $$O(nlogn)$$ in this context. However, shape registration theory relies on positive definite kernels, which is not the case here. Since this theory is intended for numerical applications, we first wanted to evaluate its relevance through a few numerical examples to determine whether its theoretical study was worthwhile.
 
 Analysis of EEG time series from epilepsy patients
 ------
